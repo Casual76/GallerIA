@@ -1,0 +1,21 @@
+{
+    "app": {
+        "id": "GallerIA",
+        "name": "GallerIA",
+        "description": "",
+        "packageName": "",
+        "iconUrl": "",
+        "category": "AI",
+        "developer": "Pampa",
+        "screenshots": [],
+        "repository": {
+            "repoOwner": "Casual76",
+            "repoName": "GallerIA",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        "stable": null,
+        "beta": null,
+        "history": []
+    }
+}
